@@ -9,7 +9,7 @@ public class DBConnection {
     private static final String USER = "root";
 
     private static final String PASSWORD =
-            "MySQL@2026#Root!";
+            "CodeWithME!";
 
     public static Connection getConnection() {
 
